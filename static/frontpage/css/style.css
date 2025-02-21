@@ -15,7 +15,7 @@ a:focus {
 	 color: #6b6b6b;}
 a {
    text-decoration: none !important;}
-@media (max-width: 499px) {
+@media (max-width: 498px) {
 body { 
    text-align: center;}
 }  
