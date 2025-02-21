@@ -44,7 +44,7 @@ urlpatterns = [
 	 url(r'^addappoinment/$', readdappoinment, name="addappoinment"),
 	 url(r'^addtreatment/$', readdtreatment, name="addtreatment"),
 	 
-	 # patient
+	 # patientr
 	 url(r'^patienthome/$', patienthome, name='patienthome'),
 	 url(r'^padetails/$', padetails, name='padetails'),
 	 url(r'^pachangepassword/$', pachangepassword, name='pachangepassword'),
