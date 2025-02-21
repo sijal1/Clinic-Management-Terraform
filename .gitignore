@@ -1,4 +1,5 @@
 *.pyc
 home_test/migrations/*
 db.sqlite3
+venv
 db*
